@@ -2,7 +2,7 @@
 - 👀 I’m interested for coding
 - 🌱 I’m currently learning python and django framework
 - 💞️ I’m looking to collaborate on any company
-- 📫 How to reach me email me saradaprasadnanda@outlook.com
+- 📫 How to reach me email me mavericklipu1999@gmail.com
 
 <!---
 sarada19/sarada19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
