@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @sarada19
-- 👀 I’m interested for coding
-- 🌱 I’m currently learning python and django framework
-- 💞️ I’m looking to collaborate on any company
-- 📫 How to reach me email me 1999saradaprasad@gmail.com
-<!---
-sarada19/sarada19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @sarada.
+- 👀 Looking for companies to work with them.
+- 🌱 I’m currently working on python and django framework.
+- 📞 You can reach me via call 7077040137
+- 📫 Also reach me email me 1999saradaprasad@gmail.com
+- 🔗 You can follow me on LinkedIn https://www.linkedin.com/in/sarada-prasad
