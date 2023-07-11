@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sarada.
 - 👀 Looking for companies to work with them.
-- 🌱 I’m currently working on python and django framework and django rest framework.
-- 📞 You can reach me via call 7077040137
-- 📫 Also reach me email me 1999saradaprasad@gmail.com
+- 🌱 I’m currently working with python, django and django rest framework.
+- 📞 You can reach me via call 7077040137.
+- 📫 Also reach me email me 1999saradaprasad@gmail.com 
 - 🔗 You can follow me on LinkedIn https://www.linkedin.com/in/sarada-prasad
 - 🔗 You can follow me on Facebook https://www.facebook.com/SaradaPrasadnanda.lipu.9/
 - 🔗 You can follow me on Twitter https://twitter.com/Saradaprasadn15
