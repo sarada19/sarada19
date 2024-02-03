@@ -62,4 +62,3 @@ I am a certified Full-Stack Developer with expertise in a wide range of technolo
 **Software Developer**
 - Built an ERP application module for Stock Management projects & HRMS Applications.
 - Designed responsive websites for in-house projects.
-
