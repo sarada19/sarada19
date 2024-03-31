@@ -50,7 +50,7 @@ I am a certified Full-Stack Developer with expertise in a wide range of technolo
 - Built a new platform for Asia Deal Hub using React.js, REST API, Python & Django.
 - Developed Microservices architecture for increased website performance.
 - Integrated Third-party APIs (ZOHO CRM, ZoomInfo CRM, Apollo CRM, Google API, Open AI).
-- Implemented Web Crawling to gather seller information.
+- Implemented Web Crawling to gather seller information (Selenium, Beautifulsoup, scrappy).
 
 ### Spaatech Solutions Pvt. Ltd (Mar 2022 – Sept. 2022)
 **Full Stack Developer (Python, Django, Django Rest Framework, PostgreSQL, MongoDB, Azure & IIS Server)**
